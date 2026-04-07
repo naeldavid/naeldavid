@@ -1,14 +1,7 @@
-<p align="center">
-  <a href="https://github.com/nael?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/nael&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/nael?tab=repositories&sort=stargazers">
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/nael&style=for-the-badge"/>
-  </a>
+## Hello World!
 
-## About Me
-
-Hello World! I'm Naël, a passionate developer who has been crafting code since the age of 10. I thrive on solving complex problems and building innovative solutions that make a difference.
+I'm Naël, a passionate developer who has been crafting code since the age of 10. 
+I thrive on solving complex problems and building innovative solutions that make a difference.
 
 ## 🛠️ Tech Stack
 
