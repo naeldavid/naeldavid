@@ -5,13 +5,6 @@
   <a href="https://github.com/nael?tab=repositories&sort=stargazers">
     <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/nael&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/nael?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nael?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nael/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=nael&style=for-the-badge&color=lightgrey"/>
-  </a>
-</p>
 
 ## About Me
 
@@ -21,12 +14,12 @@ Hello World! I'm Naël, a passionate developer who has been crafting code since 
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-Advanced-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-black?logo=javascript&logoColor=yellow&style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-black?style=flat-square&logo=css3&logoColor=1572B6)
-![C++](https://img.shields.io/badge/C++-Intermediate-black?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Swift](https://img.shields.io/badge/Swift-Learning-black?style=flat-square&logo=swift)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=bash)
 
 ### Technologies & Tools
 
