@@ -36,15 +36,6 @@ Hello World! I'm Naël, a passionate developer who has been crafting code since 
 [![Claude 101](https://img.shields.io/badge/Claude-101_Course_Completed-7C3AED?style=flat-square)](https://www.anthropic.com)
 [![MCP](https://img.shields.io/badge/MCP-Intro_Certified-FF6B6B?style=flat-square)](https://www.anthropic.com)
 
-## GitHub Stats
-
-<p align="center">
-  <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=nael&theme=dark" alt="GitHub Streak"/>
-  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=nael&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nael&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
-</p>
-
-
 
 > "Code is like humor. When you have to explain it, it's bad." — Cory House
 
