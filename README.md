@@ -22,12 +22,8 @@ I thrive on solving complex problems and building innovative solutions that make
 ![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 
-## Certifications & Achievements
-
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Azure_Achievements-0078D4?style=flat-square&logo=microsoft)](https://learn.microsoft.com/en-us/users/your-profile)
-[![Anthropic](https://img.shields.io/badge/Anthropic-AI_Fluency_Certified-000000?style=flat-square&logo=anthropic)](https://www.anthropic.com)
-[![Claude 101](https://img.shields.io/badge/Claude-101_Course_Completed-7C3AED?style=flat-square)](https://www.anthropic.com)
-[![MCP](https://img.shields.io/badge/MCP-Intro_Certified-FF6B6B?style=flat-square)](https://www.anthropic.com)
+### Other stuff
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Azure_Achievements-0078D4?style=flat-square&logo=microsoft)](https://learn.microsoft.com/en-us/users/naeldavid)
 
 
 > "Code is like humor. When you have to explain it, it's bad." — Cory House
