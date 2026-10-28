@@ -3,17 +3,6 @@
 I'm Naël, a passionate developer who has been crafting code since the age of 10. 
 I thrive on solving complex problems and building innovative solutions that make a difference.
 
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
-![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=bash)
-
 ## Tech Stack
 
 ### Languages
